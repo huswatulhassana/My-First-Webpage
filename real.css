@@ -21,7 +21,7 @@ a{
 }
         /*first-section*/
 .second{
-        background-image: url(./strict.jpg);
+        background-image: url(./image/strict.jpg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -179,7 +179,7 @@ margin-right: 10%;
 }
 .last{
     margin-top: 3px;
-    background-image: url(images.jfif);
+    background-image: url(./image/images.jfif);
     color: azure;
     padding-bottom: 20px;
     padding-right: 10px;
