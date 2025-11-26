@@ -21,7 +21,7 @@ a{
 }
         /*first-section*/
 .second{
-        background-image: url(./image/strict.jpg);
+        background-image: url(image/strict.jpg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
